@@ -3,7 +3,7 @@ extends Node2D
 """
 kod jest up-to-date,
 z funkcjami position i global_position
-odpowiadającymi za zczytywanie i wczytywanie
+odpowiadającymi za sczytywanie i wczytywanie
 pozycji elementu
 """
 # Deklaracja zmiennych globalnych dla klasy
